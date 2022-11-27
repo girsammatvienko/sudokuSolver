@@ -31,7 +31,7 @@ def is_conditions_meet (matrix, row, column, inumber)
         end
     end
 
-    # all condition are meet :)
+    # all condition are meet
     true
 end
 
